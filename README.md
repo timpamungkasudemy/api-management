@@ -1,2 +1,3 @@
-# api-management
-Udemy REST API Management
+# API Management
+
+Resources for Udemy REST API Management course using Kong.
